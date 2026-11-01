@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-11-01T11:43:43.350Z",
-  "total": 1,
+  "updateTime": "2026-11-01T11:46:11.953Z",
+  "total": 2,
   "apps": [
     {
       "id": "wechat",
@@ -10,6 +10,16 @@
       "size": "247 MiB",
       "sha256": "86d16fe03416126b262fde7e14199e20f074b938e295fde0e0a3e0d7c2f7da69",
       "url": "https://dldir1v6.qq.com/weixin/Universal/Windows/WeChatWin_4.2.0.exe",
+      "status": "已上架"
+    },
+    {
+      "id": "qq",
+      "name": "QQ",
+      "category": "社交",
+      "version": "9.9.36",
+      "size": "315 MiB",
+      "sha256": "63255c70c7ff523e7eed7d52d9708ed7a77ea346ece6474c65dded406edb3155",
+      "url": "https://qqdl.gtimg.cn/qqfile/QQNTV2/9.9.36/release/e8e54bbb/QQ_9.9.36_260924_x64_01.exe",
       "status": "已上架"
     }
   ]
