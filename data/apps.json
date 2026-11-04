@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-11-01T11:46:11.953Z",
-  "total": 2,
+  "updateTime": "2026-11-04T13:36:48.819Z",
+  "total": 3,
   "apps": [
     {
       "id": "wechat",
@@ -20,6 +20,16 @@
       "size": "315 MiB",
       "sha256": "63255c70c7ff523e7eed7d52d9708ed7a77ea346ece6474c65dded406edb3155",
       "url": "https://qqdl.gtimg.cn/qqfile/QQNTV2/9.9.36/release/e8e54bbb/QQ_9.9.36_260924_x64_01.exe",
+      "status": "已上架"
+    },
+    {
+      "id": "blibli",
+      "name": "哔哩哔哩",
+      "category": "娱乐",
+      "version": "1.20.0",
+      "size": "199 MiB",
+      "sha256": "1dfdea7d7ebb11405b80084fcce94d9fc06c002b9c527a4f57397753dd753372",
+      "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe?v=1.20.0-1",
       "status": "已上架"
     }
   ]
